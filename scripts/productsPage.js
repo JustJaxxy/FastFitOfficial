@@ -18,7 +18,7 @@ let items = 0;
 // let tax = 0;
 
 amountOfItems.addEventListener("click", () => {
-  window.location.href = "/pages/checkout.html";
+  window.location.href = "./pages/checkout.html";
 });
 
 function addItem() {
